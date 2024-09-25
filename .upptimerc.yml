@@ -7,7 +7,7 @@ sites:
     url: $SECRET_KEYCLOAK
   - name: Teleport
     url: $SECRET_TELEPORT
-  - name: API Gateway
+  - name: Gateway API
     url: $SECRET_GATEWAY_API
     port: 443
     check: "tcp-ping"
