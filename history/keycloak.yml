@@ -1,7 +1,7 @@
 url: $SECRET_KEYCLOAK
 status: up
 code: 200
-responseTime: 579
-lastUpdated: 2024-10-01T21:26:45.721Z
+responseTime: 540
+lastUpdated: 2024-10-01T23:08:12.754Z
 startTime: 2024-09-25T21:02:47.723Z
 generator: Upptime <https://github.com/upptime/upptime>
