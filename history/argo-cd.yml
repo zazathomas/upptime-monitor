@@ -1,7 +1,7 @@
 url: $SECRET_ARGOCD
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-10-02T19:24:14.183Z
+status: up
+code: 200
+responseTime: 86
+lastUpdated: 2024-10-02T21:41:28.469Z
 startTime: 2024-09-25T21:02:49.375Z
 generator: Upptime <https://github.com/upptime/upptime>
